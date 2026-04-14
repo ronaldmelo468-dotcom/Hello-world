@@ -1,1 +1,0 @@
-lista_python_basica.py
